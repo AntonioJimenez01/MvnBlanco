@@ -7,6 +7,11 @@
   <groupId>uv.mx.sistemasweb</groupId>
   <artifactId>practicas-app</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <dependency>
+    <groupId>com.sparkjava</groupId>
+    <artifactId>spark-core</artifactId>
+    <version>2.9.3</version>
+</dependency>
 
   <name>practicas-app</name>
   <!-- FIXME change it to the project's website -->
